@@ -61,7 +61,7 @@ export default function LoginPage() {
         </div>
         <div className="mt-4 p-4 bg-gray-50 rounded-lg text-xs text-gray-500">
           <p className="font-semibold mb-1">Demo credentials:</p>
-          <p>Email: akki@crm.com | Password: admin123</p>
+          <p>Email: admin@crm.com | Password: admin123</p>
         </div>
       </div>
     </div>
